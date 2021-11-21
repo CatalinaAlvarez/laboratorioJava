@@ -1,0 +1,31 @@
+
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃçŒ¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃçŒ¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹è¡¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰Á’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¾’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öòş
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(‰Á’
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ÿãî<
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(öòş
+N	java:S106."9Replace this use of System.out or System.err by a logger.(‰Á’
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Ô¾’
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(öòş
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(‰Á’
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Ô¾’
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(‘´›“şÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(«…¹ûúÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ö¨ÄÙ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–†‹’
+d
+java:S1192"NDefine a constant instead of duplicating this literal "En el indice " 4 times.(‰Á’
+l
+java:S1192"VDefine a constant instead of duplicating this literal "En la palabra 1 hay: " 3 times.(Ô¾’
+k
+java:S1192"UDefine a constant instead of duplicating this literal " hay una diferencia." 4 times.(‰Á’
+l
+java:S1192"VDefine a constant instead of duplicating this literal "En la palabra 2 hay: " 3 times.(öòş
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö´×‚
