@@ -1,7 +1,7 @@
 package ejercicio17;
 
 public class Lavadora extends Electrodomestico{
-    int carga = 5;
+    private int carga = 5;
 
     public Lavadora() {}
 

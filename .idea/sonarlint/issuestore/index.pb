@@ -1,18 +1,6 @@
 
 Y
-)src/main/java/ejercicio17/Television.java,c\3\c36ed35fa55642c5bf3a67b5c2d9872b92faf8d3
-W
-'src/main/java/ejercicio17/Lavadora.java,c\c\cccbe8362d5b4a3a1dc1c352fdd1320378ef4402
-_
-/src/main/java/ejercicio17/Electrodomestico.java,e\a\ea160a1c4a13ad8be072af49a4f9592f88abe04b
-Y
 )src/main/java/ejercicio18/Entregable.java,c\c\cc7e8ee9523e831530dc5ba2f916582ef073233a
-Y
-)src/main/java/ejercicio18/Videojuego.java,1\5\15b9ee1d68ff65b6132a7b8cc992887aead541d4
-T
-$src/main/java/ejercicio18/Serie.java,3\8\382236962dc6b577529895054bca02dec1e20d46
-X
-(src/main/java/ejercicio17/Principal.java,c\3\c35e2296513018b2fb1683073e81a3a439438a5d
 S
 #src/main/java/ejercicio1/Mayor.java,5\0\50c1234b2b1ddf044dbb3329c052e1c7d323e7bb
 Z

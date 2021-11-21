@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Map;
 
 public class Electrodomestico {
-    public int precioBase = 100;
+    private int precioBase = 100;
     private String color = "blanco";
-    public char consumoEnergetico = 'F';
-    public double peso = 5;
+    private char consumoEnergetico = 'F';
+    private double peso = 5;
 
     public Electrodomestico() {
     }

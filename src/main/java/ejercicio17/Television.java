@@ -1,8 +1,8 @@
 package ejercicio17;
 
 public class Television extends Electrodomestico{
-    int resolucion = 20;
-    boolean sintonizadorTDT = false;
+    private int resolucion = 20;
+    private boolean sintonizadorTDT = false;
 
     public Television() {
     }

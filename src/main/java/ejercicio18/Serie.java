@@ -1,11 +1,11 @@
 package ejercicio18;
 
 public class Serie implements Entregable{
-    String titulo = "";
-    int numeroTemporadas = 3;
-    boolean entregado = false;
-    String genero = "";
-    String creador = "";
+    private String titulo = "";
+    private int numeroTemporadas = 3;
+    private boolean entregado = false;
+    private String genero = "";
+    private String creador = "";
 
     public Serie() {
     }

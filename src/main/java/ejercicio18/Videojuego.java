@@ -1,11 +1,11 @@
 package ejercicio18;
 
 public class Videojuego implements Entregable{
-    String titulo = "";
-    int horasEstimadas = 10;
-    boolean entregado = false;
-    String genero = "";
-    String compania = "";
+    private String titulo = "";
+    private int horasEstimadas = 10;
+    private boolean entregado = false;
+    private String genero = "";
+    private String compania = "";
 
     public Videojuego() {
     }
